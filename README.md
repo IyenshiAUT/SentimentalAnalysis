@@ -3,7 +3,7 @@
 Over the past few weeks, our team has dived deep into the world of natural language processing and deep learning, creating a robust model that analyzes and predicts the sentiment of movie reviews. Using cutting-edge techniques like Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) networks, we've tackled the challenge of understanding the nuanced emotions behind movie reviews.
 
 🔍 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘:
--𝓞𝓫𝓳𝓮𝓬𝓽𝓲𝓿𝓮: To accurately classify movie reviews as positive or negative, helping users gauge public opinion at a glance.
+-𝓞𝓫𝓳𝓮𝓬𝓽𝓲𝓿𝓮: To accurately classify movie reviews as positive or negative, helping users gauge public opinion at a glance. </br>
 -𝓓𝓪𝓽𝓪: A rich dataset of reviews, covering a wide spectrum of sentiments and expressions.
 
 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉:
